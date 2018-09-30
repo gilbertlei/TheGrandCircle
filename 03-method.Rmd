@@ -1,3 +1,5 @@
-# Methods
+# Bryce Canyon
 
-We describe our methods in this chapter.
+A picture of the Bryce Canyon. 
+
+![](img/Bryce_Canyon.JPG)

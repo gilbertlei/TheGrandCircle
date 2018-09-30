@@ -1,7 +1,5 @@
-# Applications
+# Arches National Park
 
-Some _significant_ applications are demonstrated in this chapter.
+A picture of the Delicate Arch from the Arches National Park. 
 
-## Example one
-
-## Example two
+![](img/Delicate_Arch.JPG)
